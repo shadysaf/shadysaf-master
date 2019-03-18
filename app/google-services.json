@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "364430734220",
+    "firebase_url": "https://fcbarcelona-3298d.firebaseio.com",
+    "project_id": "fcbarcelona-3298d",
+    "storage_bucket": "fcbarcelona-3298d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364430734220:android:5776dd296418b27f",
+        "android_client_info": {
+          "package_name": "com.example.user.shadysaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364430734220-nqjjiq8gccu7qdffkum79ks5qtnu6p00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.shadysaf",
+            "certificate_hash": "090b37ae54543232e42d4a8a51221c2a9a993f6a"
+          }
+        },
+        {
+          "client_id": "364430734220-mgpt3drek1qdcaaedi42q0k1kui2adnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbBq2LBntWaL_yGLwWUwzo53WwmmoebI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364430734220-mgpt3drek1qdcaaedi42q0k1kui2adnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

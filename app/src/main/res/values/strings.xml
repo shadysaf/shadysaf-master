@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shadysaf</string>
+    <string name="profile_picture">Profile</string>
+    <string name="aboutApp">About App</string>
+</resources>
